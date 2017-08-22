@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- 填充色 -->
+    <solid android:color="@color/title_lvse" />
+
+    <!-- 边框颜色 -->
+    <stroke
+        android:width="2dip"
+        android:color="@color/title_lvse" />
+    <!-- 圆角弧度 -->
+    <corners android:radius="10dip" />
+
+</shape>

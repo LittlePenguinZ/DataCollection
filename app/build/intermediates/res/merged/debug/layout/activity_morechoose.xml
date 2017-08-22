@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <include
+        android:id="@+id/top"
+        layout="@layout/top_title_back"></include>
+    <include layout="@layout/common_line_color"></include>
+
+    <ListView
+        android:id="@+id/xListView"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/dataText"
+        android:layout_marginTop="10dp"
+        android:divider="#DDDDDD"
+        android:dividerHeight="1dp"
+        android:layout_above="@+id/chooseBTN"
+        android:headerDividersEnabled="false"
+        android:scrollbars="none" />
+
+    <Button
+        android:id="@+id/chooseBTN"
+        android:text="确认"
+        android:textColor="@color/white"
+        android:textSize="@dimen/text_size_18"
+        android:layout_margin="10dp"
+        android:layout_alignParentBottom="true"
+        android:layout_width="match_parent"
+        android:background="@drawable/btn_shape"
+        android:layout_height="wrap_content" />
+</LinearLayout>

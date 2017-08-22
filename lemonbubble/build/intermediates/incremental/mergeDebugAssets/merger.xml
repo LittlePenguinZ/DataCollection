@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="E:\ZXY\ZXY DEMO\workspace\DataCollection\lemonbubble\src\main\assets"/><source path="E:\ZXY\ZXY DEMO\workspace\DataCollection\lemonbubble\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="E:\ZXY\ZXY DEMO\workspace\DataCollection\lemonbubble\src\debug\assets"/></dataSet></merger>

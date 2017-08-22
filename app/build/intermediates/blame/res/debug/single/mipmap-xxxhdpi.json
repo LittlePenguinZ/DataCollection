@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\app_logo.png",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\src\\main\\res\\mipmap-xxxhdpi\\app_logo.png"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher_round.png",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\app_logo_ly.png",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\src\\main\\res\\mipmap-xxxhdpi\\app_logo_ly.png"
+    }
+]

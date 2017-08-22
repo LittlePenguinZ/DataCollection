@@ -1,0 +1,370 @@
+[
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\release\\layout\\notification_template_custom_big.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\release\\layout\\notification_media_cancel_action.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\release\\layout\\notification_media_action.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\release\\layout\\item_grid_image.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\src\\main\\res\\layout\\item_grid_image.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\release\\layout\\item_dataacq_list.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\src\\main\\res\\layout\\item_dataacq_list.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\release\\layout\\abc_list_menu_item_layout.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\release\\layout\\item_dataacq.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\src\\main\\res\\layout\\item_dataacq.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\release\\layout\\common_photo.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\src\\main\\res\\layout\\common_photo.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\release\\layout\\top_title_back.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\src\\main\\res\\layout\\top_title_back.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\release\\layout\\abc_activity_chooser_view.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\release\\layout\\widget.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\src\\main\\res\\layout\\widget.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\release\\layout\\notification_template_big_media.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\release\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\release\\layout\\activity_splash.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\release\\layout\\common_edittext.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\src\\main\\res\\layout\\common_edittext.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\release\\layout\\notification_template_big_media_narrow.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\release\\layout\\ac_image_grid.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\src\\main\\res\\layout\\ac_image_grid.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\release\\layout\\common_check.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\src\\main\\res\\layout\\common_check.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\release\\layout\\activity_dataacq_mademodel.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\src\\main\\res\\layout\\activity_dataacq_mademodel.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\release\\layout\\abc_action_bar_up_container.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\release\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\release\\layout\\common_edittext_num.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\src\\main\\res\\layout\\common_edittext_num.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\release\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\release\\layout\\notification_template_part_chronometer.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\release\\layout\\item_popupwindows.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\src\\main\\res\\layout\\item_popupwindows.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\release\\layout\\act_publish.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\src\\main\\res\\layout\\act_publish.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\release\\layout\\abc_list_menu_item_radio.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\release\\layout\\abc_alert_dialog_material.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\release\\layout\\main_grid_item.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\src\\main\\res\\layout\\main_grid_item.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\release\\layout\\abc_search_view.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\release\\layout\\abc_list_menu_item_icon.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\release\\layout\\activity_dataacq_recorddetail.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\src\\main\\res\\layout\\activity_dataacq_recorddetail.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\release\\layout\\common_edtnumber.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\src\\main\\res\\layout\\common_edtnumber.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\release\\layout\\abc_expanded_menu_layout.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\release\\layout\\notification_template_media.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\release\\layout\\select_dialog_item_material.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\release\\layout\\activity_dataacqchoose.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\src\\main\\res\\layout\\activity_dataacqchoose.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\release\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\release\\layout\\abc_screen_content_include.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\release\\layout\\notification_template_icon_group.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\release\\layout\\activity_setting.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\src\\main\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\release\\layout\\common_textview.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\src\\main\\res\\layout\\common_textview.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\release\\layout\\abc_action_bar_title_item.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\release\\layout\\select_dialog_multichoice_material.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\release\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\release\\layout\\notification_template_big_media_custom.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\release\\layout\\xlistview_footer.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\src\\main\\res\\layout\\xlistview_footer.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\release\\layout\\common_line_color.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\src\\main\\res\\layout\\common_line_color.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\release\\layout\\item_popupwindow.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\src\\main\\res\\layout\\item_popupwindow.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\release\\layout\\item_morechoose.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\src\\main\\res\\layout\\item_morechoose.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\release\\layout\\notification_template_lines_media.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\release\\layout\\header_titlebar.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\src\\main\\res\\layout\\header_titlebar.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\release\\layout\\show_upadate_app.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\src\\main\\res\\layout\\show_upadate_app.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\release\\layout\\notification_action.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\release\\layout\\abc_action_menu_item_layout.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\release\\layout\\common_grid_view.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\src\\main\\res\\layout\\common_grid_view.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\release\\layout\\notification_template_media_custom.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\release\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\release\\layout\\activity_datarecord.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\src\\main\\res\\layout\\activity_datarecord.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\release\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\release\\layout\\ac_image_pager.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\src\\main\\res\\layout\\ac_image_pager.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\release\\layout\\activity_login.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\release\\layout\\item_bucket_list.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\src\\main\\res\\layout\\item_bucket_list.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\release\\layout\\item_publish.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\src\\main\\res\\layout\\item_publish.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\release\\layout\\activity_dataacq_record_list.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\src\\main\\res\\layout\\activity_dataacq_record_list.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\release\\layout\\common_choose.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\src\\main\\res\\layout\\common_choose.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\release\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\release\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\release\\layout\\activity_morechoose.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\src\\main\\res\\layout\\activity_morechoose.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\release\\layout\\xlistview_header.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\src\\main\\res\\layout\\xlistview_header.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\release\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\release\\layout\\common_check_more.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\src\\main\\res\\layout\\common_check_more.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\release\\layout\\item_datarecord.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\src\\main\\res\\layout\\item_datarecord.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\release\\layout\\commom_time.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\src\\main\\res\\layout\\commom_time.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\release\\layout\\abc_action_mode_bar.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\release\\layout\\item_image_list.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\src\\main\\res\\layout\\item_image_list.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\release\\layout\\act_zoom.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\src\\main\\res\\layout\\act_zoom.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\release\\layout\\common_location.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\src\\main\\res\\layout\\common_location.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\release\\layout\\common_data.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\src\\main\\res\\layout\\common_data.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\release\\layout\\notification_action_tombstone.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\release\\layout\\item_pager_image.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\src\\main\\res\\layout\\item_pager_image.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\release\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\release\\layout\\abc_select_dialog_material.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\release\\layout\\activity_main.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\release\\layout\\act_image_choose.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\src\\main\\res\\layout\\act_image_choose.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\release\\layout\\abc_dialog_title_material.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\release\\layout\\abc_screen_simple.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\release\\layout\\abc_action_menu_layout.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\release\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\release\\layout\\abc_screen_toolbar.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\release\\layout\\act_image_bucket_choose.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\src\\main\\res\\layout\\act_image_bucket_choose.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\release\\layout\\notification_template_part_time.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_part_time.xml"
+    }
+]

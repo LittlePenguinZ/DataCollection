@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <include
+        android:id="@+id/top"
+        layout="@layout/top_title_back"></include>
+
+    <include layout="@layout/common_line_color"></include>
+
+    <com.cjy.datacollection.xlistview.XListView
+        android:id="@+id/xListView"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/RelaR"
+        android:divider="@drawable/xuxian_shape"
+        android:layerType="software"
+        android:dividerHeight="2dp"
+        android:footerDividersEnabled="true"
+        android:headerDividersEnabled="false"
+
+        android:scrollbars="none" />
+</LinearLayout>

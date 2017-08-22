@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\debug\\anim\\push_bottom_in_2.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\src\\main\\res\\anim\\push_bottom_in_2.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\debug\\anim\\fade_ins.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\src\\main\\res\\anim\\fade_ins.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\debug\\anim\\abc_popup_exit.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\debug\\anim\\abc_fade_in.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\debug\\anim\\abc_fade_out.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\debug\\anim\\activity_translate_out.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\src\\main\\res\\anim\\activity_translate_out.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\debug\\anim\\activity_translate_in.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\src\\main\\res\\anim\\activity_translate_in.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\debug\\anim\\abc_popup_enter.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\debug\\anim\\out_to_left.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\src\\main\\res\\anim\\out_to_left.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\debug\\anim\\popup_exit.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\src\\main\\res\\anim\\popup_exit.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\debug\\anim\\in_from_right.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\src\\main\\res\\anim\\in_from_right.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\build\\intermediates\\res\\merged\\Beta\\debug\\anim\\popup_enter.xml",
+        "source": "E:\\ZXY\\ZXY DEMO\\workspace\\DataCollection\\app\\src\\main\\res\\anim\\popup_enter.xml"
+    }
+]
